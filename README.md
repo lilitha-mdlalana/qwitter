@@ -1,4 +1,4 @@
-# io.totalgeek.qwitter (qwitter)
+# Qwitter(Twitter clone)
 
 A simple twitter clone
 
